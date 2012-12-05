@@ -21,106 +21,106 @@ Zwischentest 2 V0.1.0 [05.12.2012 22:42:26] started successfully.
 
 Ich habe einen Fan mehr!
 Ich habe einen Fan mehr!
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
-Axel hat einen Status von Steve Jobs erhalten.
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "1: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "2: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "3: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "4: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "5: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "6: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "7: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "8: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "9: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "10: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "11: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "12: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "13: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "14: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "15: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "16: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "17: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "18: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "19: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "20: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "21: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "22: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "23: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "24: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "25: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "26: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "27: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "28: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "29: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "30: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "31: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "32: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "33: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "34: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "35: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "36: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "37: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "38: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "39: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "40: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "41: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "42: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "43: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "44: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "45: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "46: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "47: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "48: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "49: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "50: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "51: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "52: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "53: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "54: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "55: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "56: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "57: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "58: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "59: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "60: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "61: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "62: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "63: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "64: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "65: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "66: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "67: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "68: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "69: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "70: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "71: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "72: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "73: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "74: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "75: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "76: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "77: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "78: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "79: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "80: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "81: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "82: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "83: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "84: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "85: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "86: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "87: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "88: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "89: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "90: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "91: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "92: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "93: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "94: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "95: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "96: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "97: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "98: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "99: I have no idea what I am doing!")
+Axel hat einen Status von Steve Jobs erhalten. (Status message: "100: I have no idea what I am doing!")
 
 All done, shutting down.
 ```

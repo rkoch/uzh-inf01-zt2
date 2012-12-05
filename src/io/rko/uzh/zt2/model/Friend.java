@@ -46,7 +46,7 @@ public abstract class Friend
 
     @Override
     public void receiveStatusUpdate(Celebrity pCelebrity, String pStatus) {
-        System.out.println(getName() + " hat einen Status von " + pCelebrity.getName() + " erhalten.");
+        System.out.println(getName() + " hat einen Status von " + pCelebrity.getName() + " erhalten. (Status message: \"" + pStatus + "\")");
     }
 
 
