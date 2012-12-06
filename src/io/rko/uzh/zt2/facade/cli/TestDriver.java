@@ -44,7 +44,7 @@ public class TestDriver {
         }
 
         System.out.println();
-        System.out.println("All done, shutting down."); // Just for you Yanick! :D
+        System.out.println("All done, shutting down."); // Just for you Yanik! :D
         System.exit(0);
     }
 
